@@ -27,9 +27,9 @@ _Puedes obtener una copia en tu computador personal para revisarlos, modificarlo
 
 _Herramientas y lenguajes utilizados en los proyectos de este repositorio:_
 
-* [Git](https://git-scm.com/) - Control de versiones
+* [Git](https://git-scm.com/) - Control de versiones ![GitHub](https://img.shields.io/badge/GitHub-actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código
-* [Python](https://www.python.org/) - Lenguaje de programación
+* [Python](https://www.python.org/) - Lenguaje de programación ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Autor ✒️
 
